@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Super-Clicky-Game/static/css/main.7e28413c.chunk.css",
+    "main.js": "/Super-Clicky-Game/static/js/main.00b8af96.chunk.js",
+    "main.js.map": "/Super-Clicky-Game/static/js/main.00b8af96.chunk.js.map",
+    "runtime-main.js": "/Super-Clicky-Game/static/js/runtime-main.cfaadda9.js",
+    "runtime-main.js.map": "/Super-Clicky-Game/static/js/runtime-main.cfaadda9.js.map",
+    "static/js/2.d3a3dd99.chunk.js": "/Super-Clicky-Game/static/js/2.d3a3dd99.chunk.js",
+    "static/js/2.d3a3dd99.chunk.js.map": "/Super-Clicky-Game/static/js/2.d3a3dd99.chunk.js.map",
+    "index.html": "/Super-Clicky-Game/index.html",
+    "precache-manifest.a26813ce57c4e3c37a9894cb5399b235.js": "/Super-Clicky-Game/precache-manifest.a26813ce57c4e3c37a9894cb5399b235.js",
+    "service-worker.js": "/Super-Clicky-Game/service-worker.js",
+    "static/css/main.7e28413c.chunk.css.map": "/Super-Clicky-Game/static/css/main.7e28413c.chunk.css.map",
+    "static/js/2.d3a3dd99.chunk.js.LICENSE": "/Super-Clicky-Game/static/js/2.d3a3dd99.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfaadda9.js",
+    "static/js/2.d3a3dd99.chunk.js",
+    "static/css/main.7e28413c.chunk.css",
+    "static/js/main.00b8af96.chunk.js"
+  ]
+}
